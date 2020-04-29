@@ -23,4 +23,4 @@ def output_array(array)
     count += 1 
   end
 end
-output_array
+
